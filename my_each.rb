@@ -3,6 +3,7 @@ def my_each (array)
   new_array = []
   while i < array.length
   yied array[i]
+i = i + 1 
 end 
   
 end
