@@ -5,5 +5,6 @@ def my_each (array)
   yied array[i]
 i = i + 1 
 end 
+array 
   
 end
